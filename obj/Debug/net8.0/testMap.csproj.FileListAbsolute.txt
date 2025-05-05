@@ -1,0 +1,14 @@
+C:\Users\Diego\Desktop\carpeta de juegos\repos\testMap\bin\Debug\net8.0\testMap.exe
+C:\Users\Diego\Desktop\carpeta de juegos\repos\testMap\bin\Debug\net8.0\testMap.deps.json
+C:\Users\Diego\Desktop\carpeta de juegos\repos\testMap\bin\Debug\net8.0\testMap.runtimeconfig.json
+C:\Users\Diego\Desktop\carpeta de juegos\repos\testMap\bin\Debug\net8.0\testMap.dll
+C:\Users\Diego\Desktop\carpeta de juegos\repos\testMap\bin\Debug\net8.0\testMap.pdb
+C:\Users\Diego\Desktop\carpeta de juegos\repos\testMap\obj\Debug\net8.0\testMap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\Desktop\carpeta de juegos\repos\testMap\obj\Debug\net8.0\testMap.AssemblyInfoInputs.cache
+C:\Users\Diego\Desktop\carpeta de juegos\repos\testMap\obj\Debug\net8.0\testMap.AssemblyInfo.cs
+C:\Users\Diego\Desktop\carpeta de juegos\repos\testMap\obj\Debug\net8.0\testMap.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Desktop\carpeta de juegos\repos\testMap\obj\Debug\net8.0\testMap.dll
+C:\Users\Diego\Desktop\carpeta de juegos\repos\testMap\obj\Debug\net8.0\refint\testMap.dll
+C:\Users\Diego\Desktop\carpeta de juegos\repos\testMap\obj\Debug\net8.0\testMap.pdb
+C:\Users\Diego\Desktop\carpeta de juegos\repos\testMap\obj\Debug\net8.0\testMap.genruntimeconfig.cache
+C:\Users\Diego\Desktop\carpeta de juegos\repos\testMap\obj\Debug\net8.0\ref\testMap.dll
