@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("testMap")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8aa134ddd6bfab246af27fc05d4d874117d43140")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8f9a068605d5eb76dbddd500d7d8ec3a68ea4a4d")]
 [assembly: System.Reflection.AssemblyProductAttribute("testMap")]
 [assembly: System.Reflection.AssemblyTitleAttribute("testMap")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
